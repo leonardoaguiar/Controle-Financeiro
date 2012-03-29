@@ -18,6 +18,7 @@ namespace ControleFinanceiro.Controllers
 
         public ActionResult Cadastro()
         {
+            // Página de cadastro.
             return View();
         }
 
