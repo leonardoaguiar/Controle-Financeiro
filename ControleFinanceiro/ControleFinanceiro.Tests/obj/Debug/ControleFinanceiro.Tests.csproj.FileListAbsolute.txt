@@ -1,0 +1,8 @@
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Tests\bin\Debug\ControleFinanceiro.Tests.dll.config
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Tests\bin\Debug\ControleFinanceiro.Tests.dll
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Tests\bin\Debug\ControleFinanceiro.Tests.pdb
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Tests\bin\Debug\ControleFinanceiro.dll
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Tests\bin\Debug\ControleFinanceiro.pdb
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Tests\obj\Debug\ControleFinanceiro.Tests.dll
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.Tests\obj\Debug\ControleFinanceiro.Tests.pdb

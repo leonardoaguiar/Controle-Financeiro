@@ -1,0 +1,5 @@
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro\bin\ControleFinanceiro.dll
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro\bin\ControleFinanceiro.pdb
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro\obj\Debug\ResolveAssemblyReference.cache
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.dll
+C:\Git\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.pdb
